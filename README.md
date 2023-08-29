@@ -8,6 +8,8 @@ I see that you're so funny guys, so I hope you will smile of the picture above :
 
 Let me introduce myself and tell you why I'm the best fit for your front-end Engineer. 
 
+# The story starts here
+
 I was a 15-year-old dude with a big dream of becoming a pilot, but my health dashed those hopes. Then, on January 1, 2010, at 1:00 AM, the worst happened - I got banned from my all-time favorite online game. That's when I thought, "Screw it, I'll create my own game and be the admin so no one can ban me anymore!" 😄
 
 I tried to get some hacked game sources and launch them, but these weird MySQL and PHP errors just drove me crazy. So, I said to myself, "Forget this, I'm gonna learn programming!"
