@@ -50,4 +50,3 @@ But all this is pointless if the product doesn't ignite my passion, and I don't 
 
 As for those test assignments to snag a job, well, screw that. But when it comes to your product, I'm all in. I'm willing to invest my time, even in a hackathon, just to see if my way of thinking and approaches align with your vision. It's like Tinder for business – let's match! 😄
 
-
